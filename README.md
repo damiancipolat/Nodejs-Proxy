@@ -3,7 +3,7 @@
 
 Servidor creado con nodejs que funciona como proxy, solo para los metodos POST Y GET, usa como base EXPRESSJS Y REQUESTJS.
 
-![N|solid](http://www.hostdime.in/blog/wp-content/uploads/2015/05/Proxy.png)
+![](http://www.hostdime.in/blog/wp-content/uploads/2015/05/Proxy.png)
 
 ### Instalación:
 
